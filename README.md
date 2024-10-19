@@ -3,7 +3,7 @@
 As part of the Codebasics September Resume Challenge, I have worked on this Hospitality Analysis project to provide insights for Atliq Grands, a chain of five-star hotels in India, aiming to regain their market share and revenue in the luxury/business hotel segment.
 
 ## Project Links
-- **Challenge Details**: [(https://codebasics.io/challenge/codebasics-resume-project-challenge)](#)
+- **Challenge Details**: https://codebasics.io/challenge/codebasics-resume-project-challenge
 - **Interactive Dashboard**: [Link to the Dashboard](#)
 - **LinkedIn Post**: [Link to LinkedIn Post](#)
 
