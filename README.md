@@ -1,33 +1,49 @@
-Hospitality-Analysis-
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+# Hospitality Analysis - Atliq Grands
 
-Link to the Challenge
+As part of the Codebasics September Resume Challenge, I have worked on this Hospitality Analysis project to provide insights for Atliq Grands, a chain of five-star hotels in India, aiming to regain their market share and revenue in the luxury/business hotel segment.
 
-Link to Interactive Dashboard
+## Project Links
+- **Challenge Details**: [Link to the Challenge](#)
+- **Interactive Dashboard**: [Link to the Dashboard](#)
+- **LinkedIn Post**: [Link to LinkedIn Post](#)
 
-Link to LinkedIn postProject Key learning
+## Problem Statement
+Atliq Grands, a well-established luxury hotel chain in India, has been in operation for the past 20 years. Due to competitive strategic moves and inefficient decision-making, they are experiencing a decline in market share and revenue. To address this, Atliq Grands plans to integrate “Business and Data Intelligence” to make more informed decisions and regain their foothold in the market. 
 
-Problem statement
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+Without an in-house analytics team, they have engaged a third-party data analytics provider to analyze their historical data and provide insights.
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+## Task List
+As a Data Analyst, the following tasks were completed:
 
-Task List
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+1. **Metrics Creation**: Generated key metrics according to the provided metric list.
+2. **Dashboard Development**: Built an interactive dashboard following the stakeholder’s mock-up.
+3. **Additional Insights**: Developed additional insights not listed in the mock-up/dashboard to provide more actionable recommendations.
 
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Learnt things from this Project
-Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
-By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation)
-Tried using color palette and stick with that colors throughout the dashboard
-Some Important insights from the Dashboard
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-AtliQ Bay has the highest occupancy of 66%
-Week 24 recorded the highest revenue among all, which is 139.6 Million
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-AtliQ lost around 298 Million in cancellation
-Elite type rooms has the most booking and as well higher cancellation rate
+## Key Learnings
+- **Custom Visuals**: Developed a calendar visual using a matrix table, which can be reused for analyzing various scenarios.
+- **Cancellation Policy Insights**: Discovered that most hotels charge no cancellation fee if booking is canceled 3 months prior. Post that, cancellation charges range from 60% to 90% of the booking cost.
+- **Bookmarks and Selections**: Learned how to utilize bookmarks and selection panes for page navigation and clearing filters in the dashboard.
+- **Consistent Design**: Used a consistent color palette across the dashboard for improved visualization and user experience.
+
+## Key Insights from the Dashboard
+- **Top Cities by Revenue**: 
+  - Mumbai generated the highest revenue at ₹669M, followed by Bangalore, Hyderabad, and Delhi.
+- **Top-Performing Property**: 
+  - *AtliQ Exotica* outperformed other properties with ₹320M in revenue, an occupancy rate of 57%, and a cancellation rate of 24.4%.
+- **Occupancy Leaders**: 
+  - *AtliQ Bay* had the highest occupancy rate at 66%.
+- **Revenue Peaks**: 
+  - Week 24 recorded the highest revenue at ₹139.6M.
+- **Occupancy & Ratings**: 
+  - Delhi had the highest occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
+- **Cancellations**: 
+  - AtliQ Grands lost approximately ₹298M in cancellations.
+- **Room Type Trends**: 
+  - *Elite* rooms had the highest number of bookings but also the highest cancellation rate.
+
+## Conclusion
+This project helped Atliq Grands identify key areas for improvement in their revenue and occupancy rates, particularly focusing on understanding customer behavior, cancellation patterns, and city-specific performance.
+
+## Tools Used
+- Power BI for dashboard creation
+- Python/SQL for data analysis and processing
