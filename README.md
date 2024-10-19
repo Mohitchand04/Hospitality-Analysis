@@ -2,11 +2,6 @@
 
 As part of the Codebasics September Resume Challenge, I have worked on this Hospitality Analysis project to provide insights for Atliq Grands, a chain of five-star hotels in India, aiming to regain their market share and revenue in the luxury/business hotel segment.
 
-## Project Links
-- **Challenge Details**: https://codebasics.io/challenge/codebasics-resume-project-challenge
-- **Interactive Dashboard**: [Link to the Dashboard](#)
-- **LinkedIn Post**: [Link to LinkedIn Post](#)
-
 ## Problem Statement
 Atliq Grands, a well-established luxury hotel chain in India, has been in operation for the past 20 years. Due to competitive strategic moves and inefficient decision-making, they are experiencing a decline in market share and revenue. To address this, Atliq Grands plans to integrate “Business and Data Intelligence” to make more informed decisions and regain their foothold in the market. 
 
